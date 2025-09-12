@@ -99,7 +99,7 @@ ul{
 }
 
 /*  Estilo del autor (footer) */
-footer {
+.autor {
     text-align: center;
     margin-top: 30px;
     padding: 15px;
@@ -108,3 +108,4 @@ footer {
     border-radius: 5px;
     font-size: 0.9em;
 }
+
